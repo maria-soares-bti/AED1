@@ -1,0 +1,12 @@
+
+Pilha:
+gcc pilha.c -o pilha
+./pilha.exe
+
+Lista:
+gcc lista.c -o lista
+./lista.exe
+
+Fila:
+gcc filas.c -o filas
+./filas.exe
